@@ -1,7 +1,7 @@
-# Thesis
-Code for Master's Thesis: Perceived Control and Cognitive Decline in a Racially/Ethnically Diverse Cohort of Older Adults: Findings from the Kaiser Healthy Aging and Diverse Life Experiences (KHANDLE) Study
+# Master's Thesis
+Code for Master's Thesis: Perceived Control and Cognitive Decline in a Racially/Ethnically Diverse Cohort of Older Adults: Findings from the Kaiser Healthy Aging and Diverse Life Experiences (KHANDLE) Study.
 
-This repository contains the code and documentation used in the completion of my master's thesis at UCLA. The thesis investigates the relationship between locus of control (LoC)—a psychological construct reflecting perceived control over life outcomes — and cognition (executive function and verbal memory) in a racially and ethnically diverse sample of older adults enrolled in the KHANDLE study. 
+This repository contains the code and documentation used in the completion of my master's thesis for the MS in Epidemiology degree at UCLA's Fielding School of Public Health. The thesis investigates the relationship between locus of control (LoC)—a psychological construct reflecting perceived control over life outcomes — and cognition (executive function and verbal memory) in a racially and ethnically diverse sample of older adults enrolled in the KHANDLE study. 
 
 # Overview
 The analysis evaluates both cross-sectional and longitudinal associations, incorporating:
