@@ -25,3 +25,8 @@ The analysis evaluates both cross-sectional and longitudinal associations, incor
 # Data
 
 The KHANDLE dataset is not publicly available due to confidentiality restrictions. This repository does not contain raw data. Scripts are written for reproducibility and assume access to cleaned and de-identified KHANDLE data.
+
+## Acknowledgments
+
+Special thanks to Dr. Elizabeth Rose Mayeda for her mentorship, and to the KHANDLE study team for providing the dataset and guidance.
+
